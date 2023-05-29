@@ -1,0 +1,16 @@
+wp-config.php
+/wp-includes/
+/wp-admin/
+/wp-content/languages/
+/wp-content/plugins/akismet/
+/wp-content/plugins/*.php
+/wp-content/uploads/
+/wp-content/themes/twenty*
+/wp-content/themes/blankslate/
+/wp-content/themes/generatepress/
+/wp-content/themes/planty/
+# *.php
+# *.html
+# *.txt
+# .htaccess
+# .gitignore
